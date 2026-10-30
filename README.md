@@ -29,5 +29,4 @@ Throughout this project, I have practiced using Python to calculate basic statis
 ## What next?
 I would like to improve this project by learning how to use Pandas, using real data sets and adding more data analysis features.
 
-This was a learning project but I’m looking forward to creating more Data Science projects!# student-marks-analysis
-Python project for analysing student marks and visualizing results with Matplotlib.
+This was a learning project, and I'm looking forward to creating more Data Science projects as I continue improving my skills.
